@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akash S</h1>
-<h3 align="center">💻 Python Developer | Web Developer | Freelancer | Filemaker Developer</h3>
+💫 Hi there, I'm <span style="color:#00bfff;">Akash S</span> 👋
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Full+Stack+Web+Developer+🌐;Freelancer+💻;Innovation+Catalyst+🚀"> </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
