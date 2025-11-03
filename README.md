@@ -5,18 +5,22 @@
 
 ### 🚀 About Me
 - 🎓 MSc IT Graduate from **Bishop Heber College, Trichy** (CGPA: 8.2)
-- 💻 Skilled in **Python, HTML, CSS, JavaScript, SQL, and Java (Basics)**
-- 🧠 Passionate about building **smart, user-focused applications**
-- 🚀 Currently exploring **AI Integration with FileMaker** and **E-commerce Systems**
-- 💬 Ask me about: **Python Projects, FileMaker, or Web Design**
+- 💻 Skilled in **Python, Django, Flask, HTML, CSS, JS, Bootstrap, SQL, and FileMaker**
+- 🧠 Passionate about building **AI-driven, data-powered, and user-friendly applications**
+- ☁️ Exploring **AWS Cloud, Power BI, and FileMaker integrations**
+- 💬 Ask me about: **Python Projects, Full-Stack Web Apps, FileMaker Automation**
+- 🌐 Portfolio: [ahinfotechs.netlify.app](https://ahinfotechs.netlify.app)
 
 ---
 
 ### 🛠️ Tech Stack
-| Language | Frameworks | Tools |
-|-----------|-------------|-------|
-| Python 🐍 | Flask, FileMaker | Git, VS Code, Postman |
-| HTML, CSS, JS 🌐 | Bootstrap, Tailwind | GitHub Pages, Figma |
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | HTML 🧱 • CSS 🎨 • JavaScript ⚡ • Bootstrap 💎 |
+| **Backend** | Python 🐍 • Django 🌍 • Flask 🚀 |
+| **Database / Tools** | SQL 💾 • XAMPP ⚙️ • Postman 📬 • FileMaker 🗂️ |
+| **Data & Analytics** | Pandas 📊 • NumPy 📈 • Power BI 📉 • Excel 📗 |
+| **Cloud & DevOps** | AWS ☁️ • Git ⚙️ • GitHub 🐙 • VS Code 💻 |
 
 ---
 
@@ -26,6 +30,7 @@
 | 🛍️ **E-commerce Website** | Full front-end design using HTML, CSS, JS | [View Repo](https://github.com/Akashofficial30/Ecommerce-Website) |
 | 🤖 **AI Image Generator** | Integrating AI with FileMaker | [View Repo](https://github.com/Akashofficial30/AI-Image-FileMaker) |
 | 🧾 **Appointment System** | Booking app with PDF receipts | [View Repo](https://github.com/Akashofficial30/Appointment-System) |
+| 💬 **Gmail Inbox Viewer** | FileMaker project displaying real Gmail inbox | [View Repo](https://github.com/Akashofficial30/Gmail-FileMaker) |
 
 ---
 
