@@ -15,45 +15,54 @@
 📫 How to reach me: **akashselvam630@gmail.com**
 
 ---
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 ---
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Data & Tools
+### 📊 Data & Analysis Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sqlite,mysql,postman" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FileMaker-003B70?style=for-the-badge&logo=filemaker&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/FileMaker-%23003B70.svg?style=for-the-badge&logo=filemaker&logoColor=white" />
 </p>
 
 ---
 
 ### ☁️ Cloud & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,powerbi,excel" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">✨ Constantly learning & exploring new technologies ✨</h3>
+<h3 align="center">✨ Passionate about learning, coding, and creating powerful solutions ✨</h3>
 
 ---
 
