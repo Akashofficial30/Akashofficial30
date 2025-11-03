@@ -1,9 +1,12 @@
-<div style="background: linear-gradient(135deg, #00bfff, #0066ff, #00ffcc); padding: 30px; border-radius: 15px; text-align: center; color: white; font-family: 'Segoe UI', sans-serif;">
-  <h1 style="font-size: 3em; margin: 0;">💫 Hi there, I'm <strong>Akash S</strong> 👋</h1>
-  <p style="font-size: 1.2em; margin-top: 10px;">
-    Python Developer | Web Developer | FileMaker Expert | Freelancer | Innovation Catalyst 🚀
-  </p>
-</div>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00bfff, #ff00cc, #00ffcc); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent; 
+               font-size: 2.8em; 
+               font-weight: bold;">
+    💫 Hi there, I'm Akash S 👋
+  </span>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00BFFF&center=true&vCenter=true&width=550&lines=Python+Developer+🐍;Web+Developer+🌐;FileMaker+Expert+💼;Freelancer+💻;Innovation+Catalyst+🚀">
