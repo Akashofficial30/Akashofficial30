@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash S</h1>
-<h3 align="center">💻 Python Developer | Web Developer | Freelancer</h3>
+<h3 align="center">💻 Python Developer | Web Developer | Freelancer | Filemaker Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
@@ -12,7 +12,7 @@
 💡 I’m passionate about **building real-world projects** that solve human-facing problems  
 💬 Ask me about **Python, Django, Flask, JavaScript, and SQL**  
 🎯 Portfolio: [🌐 ahinfotechs.netlify.app](https://ahinfotechs.netlify.app)  
-📫 How to reach me: **aakash30092001@gmail.com**
+📫 How to reach me: **akashselvam630@gmail.com**
 
 ---
 
@@ -76,9 +76,11 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://ahinfotechs.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:aakash30092001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:akashselvam630@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Akashofficial30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/u/Akash302500"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/akash3025" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
