@@ -1,11 +1,5 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00bfff, #ff00cc, #00ffcc); 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent; 
-               font-size: 2.8em; 
-               font-weight: bold;">
-    💫 Hi there, I'm Akash S 👋
-  </span>
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 3em; color: #00bfff; text-shadow: 0 0 10px #00bfff, 0 0 20px #00bfff, 0 0 40px #00bfff;">
+  💫 Hi there, I'm <span style="color:#ffffff;">Akash S</span> 👋
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00BFFF&center=true&vCenter=true&width=550&lines=Python+Developer+🐍;Web+Developer+🌐;FileMaker+Expert+💼;Freelancer+💻;Innovation+Catalyst+🚀">
