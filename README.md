@@ -1,6 +1,10 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 3em; color: #00bfff; text-shadow: 0 0 10px #00bfff, 0 0 20px #00bfff, 0 0 40px #00bfff;">
-  💫 Hi there, I'm <span style="color:#ffffff;">Akash S</span> 👋
-</h1>
+<div style="background: linear-gradient(135deg, #00bfff, #0066ff, #00ffcc); padding: 30px; border-radius: 15px; text-align: center; color: white; font-family: 'Segoe UI', sans-serif;">
+  <h1 style="font-size: 3em; margin: 0;">💫 Hi there, I'm <strong>Akash S</strong> 👋</h1>
+  <p style="font-size: 1.2em; margin-top: 10px;">
+    Python Developer | Web Developer | FileMaker Expert | Freelancer | Innovation Catalyst 🚀
+  </p>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00BFFF&center=true&vCenter=true&width=550&lines=Python+Developer+🐍;Web+Developer+🌐;FileMaker+Expert+💼;Freelancer+💻;Innovation+Catalyst+🚀">
 </p>
