@@ -16,42 +16,44 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-#### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+---
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-#### 🧠 Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+---
+
+### 🧠 Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
 
-#### 📊 Data & Tools
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
+---
+
+### 📊 Data & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sqlite,mysql,postman" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/FileMaker-003B70?style=for-the-badge&logo=filemaker&logoColor=white">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
 </p>
 
-#### ☁️ Cloud & Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+---
+
+### ☁️ Cloud & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,powerbi,excel" />
 </p>
+
+---
+
+<h3 align="center">✨ Constantly learning & exploring new technologies ✨</h3>
 
 ---
 
