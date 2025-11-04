@@ -95,7 +95,7 @@
 
 ---
 ### 💻 HackerRank Profile
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60" alt="HackerRank Logo" />
   </a>
@@ -145,15 +145,30 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
-<!-- <br>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color: #00bfff; font-weight: bold; text-decoration: none;">
-    🔗 View My Full HackerRank Profile
+  <!-- HackerRank Skills Card -->
+  <img src="https://img.shields.io/badge/SQL-5★%20(Gold)-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" height="150em" />
+  <img src="https://img.shields.io/badge/Python-3★%20(Silver)-blue?style=for-the-badge&logo=python&logoColor=white" height="150em" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-1★%20(Bronze)-orange?style=for-the-badge&logo=hackerrank&logoColor=white" height="150em" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certification-Problem%20Solving%20(Basic)-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" height="40em" />
+  <img src="https://img.shields.io/badge/Certification-SQL%20(Basic)-blue?style=for-the-badge&logo=hackerrank&logoColor=white" height="40em" />
+  <img src="https://img.shields.io/badge/Certification-JavaScript%20(Basic)-yellow?style=for-the-badge&logo=javascript&logoColor=black" height="40em" />
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" height="40em" />
   </a>
-</p> -->
+</p>
+
+
+
 
 ---
 
