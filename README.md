@@ -94,42 +94,90 @@
 </p>
 
 ---
----
+<!-- 💻 HackerRank Stats Section -->
+<h2>💻 HackerRank Stats</h2>
 
-### 💻 HackerRank Stats
-<p align="center">
-  <table>
+<div align="center" style="
+  background-color:#0D1117;
+  border-radius:20px;
+  padding:30px;
+  box-shadow:0 0 10px rgba(0,255,204,0.3);
+  color:white;
+  font-family:Segoe UI, sans-serif;
+  width:90%;
+  margin:auto;
+">
+
+  <!-- Profile Header -->
+  <h3 style="color:#2EC866; font-size:1.8em;">Akash S 🇮🇳</h3>
+  <p>
+    <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color:#00FFCC; text-decoration:none; font-weight:bold;">
+      🔗 View My HackerRank Profile
+    </a>
+  </p>
+  
+  <!-- Two Column Layout -->
+  <table style="width:90%; border-collapse:collapse; margin-top:20px;">
     <tr>
-      <!-- Profile & Contact -->
-      <td width="400" align="center" valign="top">
-        <h3>🏆 <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="text-decoration:none; color:#2EC866;">HackerRank Profile</a></h3>
-        <p><b>👤 Name:</b> Akash S 🇮🇳<br>
-        <b>📧 Email:</b> akash0930.s@gmail.com<br>
-        <b>📍 Location:</b> India</p>
-        <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
-          <img src="https://img.shields.io/badge/HackerRank-Visit%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-        </a>
+      <!-- Badges -->
+      <td style="width:50%; vertical-align:top; text-align:center; padding:10px;">
+        <h3 style="color:#7AA2F7;">🏅 My Badges</h3>
+        <div style="
+          display:inline-block; 
+          background:#161B22; 
+          border-radius:15px; 
+          padding:20px; 
+          width:85%;
+          box-shadow:0 0 8px rgba(0,255,204,0.2);
+        ">
+          <p>🧩 <b>Problem Solving</b> – ★</p>
+          <p>🐍 <b>Python</b> – ★★★</p>
+          <p>🗃️ <b>SQL</b> – ★★★★★</p>
+        </div>
       </td>
 
-      <!-- Badges & Certifications -->
-      <td width="400" align="center" valign="top">
-        <h3>🎯 My Achievements</h3>
-        <p><b>🏅 Badges:</b><br>
-          🧩 Problem Solving ★<br>
-          🐍 Python ★★★<br>
-          🗃️ SQL ★★★★★
-        </p>
-        <p><b>📜 Certifications:</b><br>
-          ✅ Problem Solving (Basic)<br>
-          ✅ Software Engineer Intern<br>
-          ✅ SQL (Basic)<br>
-          ✅ JavaScript (Basic)
-        </p>
+      <!-- Certifications -->
+      <td style="width:50%; vertical-align:top; text-align:center; padding:10px;">
+        <h3 style="color:#7AA2F7;">📜 My Certifications</h3>
+        <div style="
+          display:inline-block; 
+          background:#161B22; 
+          border-radius:15px; 
+          padding:20px; 
+          width:85%;
+          box-shadow:0 0 8px rgba(0,255,204,0.2);
+        ">
+          <p>✅ Problem Solving (Basic)</p>
+          <p>✅ Software Engineer Intern</p>
+          <p>✅ SQL (Basic)</p>
+          <p>✅ JavaScript (Basic)</p>
+        </div>
       </td>
     </tr>
   </table>
-</p>
 
+  <!-- Work Experience -->
+  <div style="
+    background:#161B22; 
+    border-radius:15px; 
+    padding:20px; 
+    margin-top:25px; 
+    width:85%;
+    box-shadow:0 0 8px rgba(0,255,204,0.2);
+  ">
+    <h3 style="color:#7AA2F7;">💼 Work Experience</h3>
+    <p><b>Student Intern</b> — Systech (Aug 2023 - Present)</p>
+    <p style="color:#9CA3AF;">
+      Participated in a comprehensive week-long AWS cloud class, acquiring foundational knowledge of Amazon Web Services (AWS) cloud computing. 
+      Explored key services such as EC2 and S3.
+    </p>
+  </div>
+
+  <!-- Contact -->
+  <p style="margin-top:25px; color:#9CA3AF;">
+    📧 <b>Email:</b> akash0930.s@gmail.com &nbsp; | &nbsp; 📱 <b>Phone:</b> +91-9361094203
+  </p>
+</div>
 ---
 
 
