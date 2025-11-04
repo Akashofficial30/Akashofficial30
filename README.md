@@ -94,12 +94,32 @@
 </p>
 
 ---
+
 ### 💻 HackerRank Stats
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
-    <img src="https://github-readme-hackerrank.vercel.app/?user=akash0930_s&theme=dark&show_icons=true" height="180em" alt="HackerRank Stats" />
-  </a>
+  <table>
+    <tr>
+      <td width="400" align="center" valign="top">
+        <h3>🏆 HackerRank Profile</h3>
+        <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
+          <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+        </a>
+        <br><br>
+        <p><b>⭐ Total Badges:</b> 5<br>
+        <b>🧠 Skills:</b> Python, Problem Solving, SQL<br>
+        <b>💬 Rank:</b> Gold (Python), Silver (SQL)</p>
+      </td>
+      <td width="400" align="center" valign="top">
+        <h3>📈 Progress Overview</h3>
+        <img src="https://img.icons8.com/?size=512&id=117561&format=png&color=2EC866" width="100" />
+        <p><b>Challenges Solved:</b> 150+<br>
+        <b>Contests Participated:</b> 12<br>
+        <b>Certificates:</b> Python (Basic), SQL (Intermediate)</p>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 ### 🌐 Connect with Me
