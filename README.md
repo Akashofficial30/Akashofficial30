@@ -78,7 +78,7 @@
 
 ---
 
-### 📈 My LeetCode Stats
+### 📈 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/u/Akash302500/">
     <img src="https://leetcard.jacoblin.cool/Akash302500?theme=dark&font=Roboto&ext=contest" alt="Leetcode Stats" />
@@ -94,60 +94,47 @@
 </p>
 
 ---
-<!-- 🧠 HackerRank Stats -->
-<h2>🧠 HackerRank Stats</h2>
 
-<div align="center" style="
-  background-color:#0D1117;
-  border:1px solid #30363D;
-  border-radius:10px;
-  padding:20px;
-  width:450px;
-  margin:auto;
-  font-family:Segoe UI, sans-serif;
-  color:#C9D1D9;
-">
+## 💻 HackerRank Profile
 
-  <div style="display:flex; align-items:center; justify-content:center; margin-bottom:15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="25" height="25" style="margin-right:10px;">
-    <h3 style="color:#00EA64; margin:0;">Akash S</h3>
-  </div>
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60" alt="HackerRank Logo" />
+  </a>
+</p>
 
-  <p style="color:#8B949E; margin-top:-5px;">@akash0930_s</p>
-  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color:#00FFCC; text-decoration:none;">View Profile 🔗</a>
+<table align="center" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; width: 85%; color: #c9d1d9;">
+  <tr style="background-color: #161b22; color: #00ea64;">
+    <th style="padding: 12px; border-bottom: 1px solid #30363d;">Skill</th>
+    <th style="padding: 12px; border-bottom: 1px solid #30363d;">Rating</th>
+    <th style="padding: 12px; border-bottom: 1px solid #30363d;">Badges</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">🗃️ SQL</td>
+    <td align="center" style="padding: 10px;">5★</td>
+    <td align="center" style="padding: 10px;">🏅 Gold</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">🐍 Python</td>
+    <td align="center" style="padding: 10px;">3★</td>
+    <td align="center" style="padding: 10px;">🏅 Silver</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">🧩 Problem Solving</td>
+    <td align="center" style="padding: 10px;">1★</td>
+    <td align="center" style="padding: 10px;">🏅 Bronze</td>
+  </tr>
+</table>
 
-  <hr style="border:0.5px solid #21262D; margin:15px 0;">
-
-  <!-- Badges -->
-  <h4 style="color:#58A6FF;">🏅 My Badges</h4>
-  <p>🧩 Problem Solving – <b>★</b></p>
-  <p>🐍 Python – <b>★★★</b></p>
-  <p>🗃️ SQL – <b>★★★★★</b></p>
-
-  <hr style="border:0.5px solid #21262D; margin:15px 0;">
-
-  <!-- Certifications -->
-  <h4 style="color:#58A6FF;">📜 My Certifications</h4>
-  <p>✅ Problem Solving (Basic)</p>
-  <p>✅ Software Engineer Intern</p>
-  <p>✅ SQL (Basic)</p>
-  <p>✅ JavaScript (Basic)</p>
-
-  <hr style="border:0.5px solid #21262D; margin:15px 0;">
-
-  <!-- Work Experience -->
-  <h4 style="color:#58A6FF;">💼 Work Experience</h4>
-  <p><b>Student Intern</b> — Systech (Aug 2023 – Present)</p>
-  <p style="color:#8B949E;">
-    Participated in an AWS cloud class, learning EC2, S3, and key AWS services.
-  </p>
-</div>
+<p align="center">
+  🎓 <b>Certifications:</b> Problem Solving (Basic), SQL (Basic), JavaScript (Basic), Software Engineer Intern  
+  <br><br>
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color: #00ffcc; text-decoration: none;">
+    🔗 View My Full HackerRank Profile
+  </a>
+</p>
 
 ---
-
-
-
-
 
 ### 🌐 Connect with Me
 <p align="center">
