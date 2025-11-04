@@ -94,90 +94,55 @@
 </p>
 
 ---
-<!-- 💻 HackerRank Stats Section -->
-<h2>💻 HackerRank Stats</h2>
+<!-- 🧠 HackerRank Stats -->
+<h2>🧠 HackerRank Stats</h2>
 
 <div align="center" style="
   background-color:#0D1117;
-  border-radius:20px;
-  padding:30px;
-  box-shadow:0 0 10px rgba(0,255,204,0.3);
-  color:white;
-  font-family:Segoe UI, sans-serif;
-  width:90%;
+  border:1px solid #30363D;
+  border-radius:10px;
+  padding:20px;
+  width:450px;
   margin:auto;
+  font-family:Segoe UI, sans-serif;
+  color:#C9D1D9;
 ">
 
-  <!-- Profile Header -->
-  <h3 style="color:#2EC866; font-size:1.8em;">Akash S 🇮🇳</h3>
-  <p>
-    <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color:#00FFCC; text-decoration:none; font-weight:bold;">
-      🔗 View My HackerRank Profile
-    </a>
-  </p>
-  
-  <!-- Two Column Layout -->
-  <table style="width:90%; border-collapse:collapse; margin-top:20px;">
-    <tr>
-      <!-- Badges -->
-      <td style="width:50%; vertical-align:top; text-align:center; padding:10px;">
-        <h3 style="color:#7AA2F7;">🏅 My Badges</h3>
-        <div style="
-          display:inline-block; 
-          background:#161B22; 
-          border-radius:15px; 
-          padding:20px; 
-          width:85%;
-          box-shadow:0 0 8px rgba(0,255,204,0.2);
-        ">
-          <p>🧩 <b>Problem Solving</b> – ★</p>
-          <p>🐍 <b>Python</b> – ★★★</p>
-          <p>🗃️ <b>SQL</b> – ★★★★★</p>
-        </div>
-      </td>
-
-      <!-- Certifications -->
-      <td style="width:50%; vertical-align:top; text-align:center; padding:10px;">
-        <h3 style="color:#7AA2F7;">📜 My Certifications</h3>
-        <div style="
-          display:inline-block; 
-          background:#161B22; 
-          border-radius:15px; 
-          padding:20px; 
-          width:85%;
-          box-shadow:0 0 8px rgba(0,255,204,0.2);
-        ">
-          <p>✅ Problem Solving (Basic)</p>
-          <p>✅ Software Engineer Intern</p>
-          <p>✅ SQL (Basic)</p>
-          <p>✅ JavaScript (Basic)</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Work Experience -->
-  <div style="
-    background:#161B22; 
-    border-radius:15px; 
-    padding:20px; 
-    margin-top:25px; 
-    width:85%;
-    box-shadow:0 0 8px rgba(0,255,204,0.2);
-  ">
-    <h3 style="color:#7AA2F7;">💼 Work Experience</h3>
-    <p><b>Student Intern</b> — Systech (Aug 2023 - Present)</p>
-    <p style="color:#9CA3AF;">
-      Participated in a comprehensive week-long AWS cloud class, acquiring foundational knowledge of Amazon Web Services (AWS) cloud computing. 
-      Explored key services such as EC2 and S3.
-    </p>
+  <div style="display:flex; align-items:center; justify-content:center; margin-bottom:15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="25" height="25" style="margin-right:10px;">
+    <h3 style="color:#00EA64; margin:0;">Akash S</h3>
   </div>
 
-  <!-- Contact -->
-  <p style="margin-top:25px; color:#9CA3AF;">
-    📧 <b>Email:</b> akash0930.s@gmail.com &nbsp; | &nbsp; 📱 <b>Phone:</b> +91-9361094203
+  <p style="color:#8B949E; margin-top:-5px;">@akash0930_s</p>
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color:#00FFCC; text-decoration:none;">View Profile 🔗</a>
+
+  <hr style="border:0.5px solid #21262D; margin:15px 0;">
+
+  <!-- Badges -->
+  <h4 style="color:#58A6FF;">🏅 My Badges</h4>
+  <p>🧩 Problem Solving – <b>★</b></p>
+  <p>🐍 Python – <b>★★★</b></p>
+  <p>🗃️ SQL – <b>★★★★★</b></p>
+
+  <hr style="border:0.5px solid #21262D; margin:15px 0;">
+
+  <!-- Certifications -->
+  <h4 style="color:#58A6FF;">📜 My Certifications</h4>
+  <p>✅ Problem Solving (Basic)</p>
+  <p>✅ Software Engineer Intern</p>
+  <p>✅ SQL (Basic)</p>
+  <p>✅ JavaScript (Basic)</p>
+
+  <hr style="border:0.5px solid #21262D; margin:15px 0;">
+
+  <!-- Work Experience -->
+  <h4 style="color:#58A6FF;">💼 Work Experience</h4>
+  <p><b>Student Intern</b> — Systech (Aug 2023 – Present)</p>
+  <p style="color:#8B949E;">
+    Participated in an AWS cloud class, learning EC2, S3, and key AWS services.
   </p>
 </div>
+
 ---
 
 
