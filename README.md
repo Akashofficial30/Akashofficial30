@@ -147,56 +147,74 @@
 </tr>
 </table>  -->
 
-
-<!-- HackerRank Logo Center -->
+<!-- 🎯 HackerRank Profile Section -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" height="80">
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" height="70">
+  </a>
 </p>
 
-<!-- Two Card Layout (Skills + Certifications) -->
-<table align="center" style="border-collapse: separate; border-spacing: 20px;">
+<table align="center" style="border-collapse: separate; border-spacing: 20px; margin-top: 10px;">
+
   <tr>
-    <!-- HackerRank Skills Card -->
-    <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; color: #c9d1d9; width: 350px; vertical-align: top;">
-      <h3 style="color: #58a6ff;">🏆 HackerRank Skills</h3>
-      <table style="width: 100%; border-collapse: collapse; color: #c9d1d9;">
-        <tr>
-          <th align="left">Skill</th>
-          <th align="left">Rating</th>
-          <th align="left">Badge</th>
+
+  <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; color: #c9d1d9; width: 380px; vertical-align: top;">
+  <h3 align="center" style="color: #58a6ff;">🏆 HackerRank Skills</h3>
+
+  <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+        <tr style="background-color: #161b22; color: #c9d1d9;">
+          <th align="left" style="padding: 10px; border-bottom: 1px solid #30363d;">Skill</th>
+          <th align="center" style="padding: 10px; border-bottom: 1px solid #30363d;">Rating</th>
+          <th align="center" style="padding: 10px; border-bottom: 1px solid #30363d;">Badge</th>
         </tr>
-        <tr>
-          <td>🧠 SQL</td>
-          <td>⭐⭐⭐⭐⭐</td>
-          <td>🥇 Gold</td>
+
+  <tr>
+          <td style="padding: 10px;">🧠 SQL</td>
+          <td align="center" style="padding: 10px;">⭐⭐⭐⭐⭐</td>
+          <td align="center" style="padding: 10px;">🥇 Gold</td>
         </tr>
-        <tr>
-          <td>🐍 Python</td>
-          <td>⭐⭐⭐</td>
-          <td>🥈 Silver</td>
+
+  <tr>
+          <td style="padding: 10px;">🐍 Python</td>
+          <td align="center" style="padding: 10px;">⭐⭐⭐</td>
+          <td align="center" style="padding: 10px;">🥈 Silver</td>
         </tr>
-        <tr>
-          <td>🧩 Problem Solving</td>
-          <td>⭐</td>
-          <td>🥉 Bronze</td>
+
+  <tr>
+          <td style="padding: 10px;">🧩 Problem Solving</td>
+          <td align="center" style="padding: 10px;">⭐</td>
+          <td align="center" style="padding: 10px;">🥉 Bronze</td>
         </tr>
       </table>
     </td>
 
+   
+<td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; color: #c9d1d9; width: 380px; vertical-align: top;">
+      <h3 align="center" style="color: #58a6ff;">📜 Certifications</h3>
 
-<table>
-  <tr>
-    <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; color: #c9d1d9; width: 350px; vertical-align: top;">
-      <h3 style="color: #58a6ff;">📜 Certifications</h3>
-      <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
-        <li>✅ Problem Solving (Basic)</li>
-        <li>✅ SQL (Basic)</li>
-        <li>✅ JavaScript (Basic)</li>
-        <li>✅ Software Engineer Intern</li>
-      </ul>
+  <table style="width: 100%; border-collapse: collapse; color: #c9d1d9; margin-top: 10px;">
+        <tr>
+          <td style="padding: 8px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" style="vertical-align: middle;"/> ✅ Problem Solving (Basic)
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" style="vertical-align: middle;"/> ✅ SQL (Basic)
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" style="vertical-align: middle;"/> ✅ JavaScript (Basic)
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" style="vertical-align: middle;"/> ✅ Software Engineer Intern
+          </td>
+        </tr>
+      </table>
     </td>
-  </tr>
-</table>
 
   </tr>
 </table>
