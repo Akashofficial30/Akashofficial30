@@ -94,6 +94,13 @@
 </p>
 
 ---
+### 💻 HackerRank Stats
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
+    <img src="https://github-readme-hackerrank.vercel.app/?user=akash0930_s&theme=dark&show_icons=true" height="180em" alt="HackerRank Stats" />
+  </a>
+</p>
+
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -111,6 +118,9 @@
   </a>
   <a href="https://www.linkedin.com/in/akash3025" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
