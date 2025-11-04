@@ -99,13 +99,13 @@
 ### 💻 HackerRank Profile
 
 <!-- 🎯 HackerRank Profile Section -->
-<p align="center" style="margin-top:10px;">
+<p align="center" style="margin-top:-10px;">
   <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" height="70">
   </a>
 </p>
 
-<table align="center" style="border-collapse: separate; border-spacing: 20px; margin-top: 10px;">
+<table align="center" style="border-collapse: separate; border-spacing: 20px; margin-top: -10px;">
 
   <tr>
 
