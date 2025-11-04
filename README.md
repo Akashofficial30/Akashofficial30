@@ -94,31 +94,45 @@
 </p>
 
 ---
+---
 
 ### 💻 HackerRank Stats
 <p align="center">
   <table>
     <tr>
+      <!-- Profile & Contact -->
       <td width="400" align="center" valign="top">
-        <h3>🏆 HackerRank Profile</h3>
+        <h3>🏆 <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="text-decoration:none; color:#2EC866;">HackerRank Profile</a></h3>
+        <p><b>👤 Name:</b> Akash S 🇮🇳<br>
+        <b>📧 Email:</b> akash0930.s@gmail.com<br>
+        <b>📍 Location:</b> India</p>
         <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
-          <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+          <img src="https://img.shields.io/badge/HackerRank-Visit%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
         </a>
-        <br><br>
-        <p><b>⭐ Total Badges:</b> 5<br>
-        <b>🧠 Skills:</b> Python, Problem Solving, SQL<br>
-        <b>💬 Rank:</b> Gold (Python), Silver (SQL)</p>
       </td>
+
+      <!-- Badges & Certifications -->
       <td width="400" align="center" valign="top">
-        <h3>📈 Progress Overview</h3>
-        <img src="https://img.icons8.com/?size=512&id=117561&format=png&color=2EC866" width="100" />
-        <p><b>Challenges Solved:</b> 150+<br>
-        <b>Contests Participated:</b> 12<br>
-        <b>Certificates:</b> Python (Basic), SQL (Intermediate)</p>
+        <h3>🎯 My Achievements</h3>
+        <p><b>🏅 Badges:</b><br>
+          🧩 Problem Solving ★<br>
+          🐍 Python ★★★<br>
+          🗃️ SQL ★★★★★
+        </p>
+        <p><b>📜 Certifications:</b><br>
+          ✅ Problem Solving (Basic)<br>
+          ✅ Software Engineer Intern<br>
+          ✅ SQL (Basic)<br>
+          ✅ JavaScript (Basic)
+        </p>
       </td>
     </tr>
   </table>
 </p>
+
+---
+
+
 
 
 
