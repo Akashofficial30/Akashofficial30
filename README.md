@@ -147,13 +147,13 @@
 </tr>
 </table>
 
-<br>
+<!-- <br>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color: #00bfff; font-weight: bold; text-decoration: none;">
     🔗 View My Full HackerRank Profile
   </a>
-</p>
+</p> -->
 
 ---
 
