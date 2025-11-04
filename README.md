@@ -146,8 +146,14 @@
 </td>
 </tr>
 </table>  -->
-<h2>💻 HackerRank Profile</h2>
 
+
+<!-- HackerRank Logo Center -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" height="80">
+</p>
+
+<!-- Two Card Layout (Skills + Certifications) -->
 <table align="center" style="border-collapse: separate; border-spacing: 20px;">
   <tr>
     <!-- HackerRank Skills Card -->
@@ -177,10 +183,12 @@
       </table>
     </td>
 
-    <!-- Certifications Card -->
+
+<table>
+  <tr>
     <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; color: #c9d1d9; width: 350px; vertical-align: top;">
       <h3 style="color: #58a6ff;">📜 Certifications</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
+      <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
         <li>✅ Problem Solving (Basic)</li>
         <li>✅ SQL (Basic)</li>
         <li>✅ JavaScript (Basic)</li>
@@ -190,14 +198,8 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" height="40em" />
-  </a>
-</p>
-
-
-
+  </tr>
+</table>
 
 
 ---
