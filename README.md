@@ -94,42 +94,63 @@
 </p>
 
 ---
-
-## 💻 HackerRank Profile
-
+### 💻 HackerRank Profile
 <p align="center">
   <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60" alt="HackerRank Logo" />
   </a>
 </p>
 
-<table align="center" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; width: 85%; color: #c9d1d9;">
-  <tr style="background-color: #161b22; color: #00ea64;">
-    <th style="padding: 12px; border-bottom: 1px solid #30363d;">Skill</th>
-    <th style="padding: 12px; border-bottom: 1px solid #30363d;">Rating</th>
-    <th style="padding: 12px; border-bottom: 1px solid #30363d;">Badges</th>
+<table align="center">
+<tr>
+<td align="center" width="48%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px; vertical-align: top;">
+  
+<h3>🏆 HackerRank Skills</h3>
+
+<table align="center" style="width: 90%; border-collapse: collapse; color: #c9d1d9;">
+  <tr style="background-color: #161b22;">
+    <th style="padding: 10px; border-bottom: 1px solid #30363d;">Skill</th>
+    <th style="padding: 10px; border-bottom: 1px solid #30363d;">Rating</th>
+    <th style="padding: 10px; border-bottom: 1px solid #30363d;">Badge</th>
   </tr>
   <tr>
-    <td style="padding: 10px;">🗃️ SQL</td>
+    <td align="center" style="padding: 10px;">🗃️ SQL</td>
     <td align="center" style="padding: 10px;">5★</td>
-    <td align="center" style="padding: 10px;">🏅 Gold</td>
+    <td align="center" style="padding: 10px;">🥇 Gold</td>
   </tr>
   <tr>
-    <td style="padding: 10px;">🐍 Python</td>
+    <td align="center" style="padding: 10px;">🐍 Python</td>
     <td align="center" style="padding: 10px;">3★</td>
-    <td align="center" style="padding: 10px;">🏅 Silver</td>
+    <td align="center" style="padding: 10px;">🥈 Silver</td>
   </tr>
   <tr>
-    <td style="padding: 10px;">🧩 Problem Solving</td>
+    <td align="center" style="padding: 10px;">🧩 Problem Solving</td>
     <td align="center" style="padding: 10px;">1★</td>
-    <td align="center" style="padding: 10px;">🏅 Bronze</td>
+    <td align="center" style="padding: 10px;">🥉 Bronze</td>
   </tr>
 </table>
 
+</td>
+
+<td align="center" width="48%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px; vertical-align: top;">
+
+<h3>📜 Certifications</h3>
+
+<p align="left" style="color: #c9d1d9; font-size: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" /> <b>Problem Solving (Basic)</b> <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" /> <b>SQL (Basic)</b> <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" /> <b>JavaScript (Basic)</b> <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="16" /> <b>Software Engineer Intern</b>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  🎓 <b>Certifications:</b> Problem Solving (Basic), SQL (Basic), JavaScript (Basic), Software Engineer Intern  
-  <br><br>
-  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color: #00ffcc; text-decoration: none;">
+  <a href="https://www.hackerrank.com/profile/akash0930_s" target="_blank" style="color: #00bfff; font-weight: bold; text-decoration: none;">
     🔗 View My Full HackerRank Profile
   </a>
 </p>
